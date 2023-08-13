@@ -8,9 +8,9 @@
 <br>
 <br>
 
-- 💼 FrontEnd Engineer at [Atliis](https://atliis360.com/)
+- 💼 Working at [Atliis](https://atliis360.com/)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Enthusiastic web creator with a flair for blending HTML, CSS, and JavaScript to craft visually stunning and interactive websites. Also, a fan of WordPress for dynamic web experiences. 
 
 - 💬 Ask me about anything [here](https://github.com/Souphalack/Souphalack/issues)
   
