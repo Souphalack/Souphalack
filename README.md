@@ -1,5 +1,42 @@
 <h1 style="color: #44AEFB;"> 💁🏻‍♀️ Souphalack Ward </h1>
 
+_Social buttons_
+
+[![Souphalack - Currency-Converter](https://img.shields.io/static/v1?label=Souphalack&message=Currency-Converter&color=blue&logo=github)](https://github.com/Souphalack/Currency-Converter "Go to GitHub repo")
+[![stars - Currency-Converter](https://img.shields.io/github/stars/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
+[![forks - Currency-Converter](https://img.shields.io/github/forks/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
+
+
+_Repo metadata_
+
+
+[![GitHub tag](https://img.shields.io/github/tag/Souphalack/Currency-Converter?include_prereleases=&sort=semver&color=blue)](https://github.com/Souphalack/Currency-Converter/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - Currency-Converter](https://img.shields.io/github/issues/Souphalack/Currency-Converter)](https://github.com/Souphalack/Currency-Converter/issues)
+
+_Call-to-Action buttons_
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/Souphalack/Currency-Converter/generate)
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://souphalack.github.io/Currency-Converter/)
+
+</div>
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@Souphalack](https://github.com/Souphalack).
+
 ![aakash-dhage-cmosdvcAZgo-unsplash](https://github.com/Souphalack/Souphalack/assets/100770535/5d2bb973-792d-4de6-a8de-02b2fc63b0cc)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
