@@ -8,8 +8,9 @@
 <br>
 <br>
 <div align="center">
-   
----
+
+<br>
+  
 [![Souphalack - Currency-Converter](https://img.shields.io/static/v1?label=Souphalack&message=Currency-Converter&color=blue&logo=github)](https://github.com/Souphalack/Currency-Converter "Go to GitHub repo")
 [![stars - Currency-Converter](https://img.shields.io/github/stars/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
 [![forks - Currency-Converter](https://img.shields.io/github/forks/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
