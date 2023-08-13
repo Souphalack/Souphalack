@@ -142,6 +142,7 @@ Released under [MIT](/LICENSE) by [@Souphalack](https://github.com/Souphalack).
 <!-- End Footer -->
 
 <!-- 
+
 🔗 References 🔗
 - Portfolio:
 https://github.com/KhaledBadranDev
@@ -149,6 +150,8 @@ https://github.com/KhaledBadranDev
 - Badges Generator:
 https://github.com/MichaelCurrin/badge-generator
 
+- Stats:
+https://github.com/anuraghazra/github-readme-stats
 -->
 
 
