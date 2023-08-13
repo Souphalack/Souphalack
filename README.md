@@ -7,8 +7,14 @@
    Hello, I am Souphalack Ward, though most know me as Noy.
 <br>
 <br>
-<div align="center">
 
+- 💼 FrontEnd Engineer at [Atliis](https://atliis360.com/)
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/Souphalack/Souphalack/issues)
+  
+<div align="center">
 <br>
   
 [![Souphalack - Currency-Converter](https://img.shields.io/static/v1?label=Souphalack&message=Currency-Converter&color=blue&logo=github)](https://github.com/Souphalack/Currency-Converter "Go to GitHub repo")
