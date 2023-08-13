@@ -2,6 +2,7 @@
 
 ![aakash-dhage-cmosdvcAZgo-unsplash](https://github.com/Souphalack/Souphalack/assets/100770535/5d2bb973-792d-4de6-a8de-02b2fc63b0cc)
 
+<!-- ABOUT ME -->
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    Hello, I am Souphalack Ward, though most know me as Noy.
 <br>
@@ -13,6 +14,8 @@
 [![stars - Currency-Converter](https://img.shields.io/github/stars/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
 [![forks - Currency-Converter](https://img.shields.io/github/forks/Souphalack/Currency-Converter?style=social)](https://github.com/Souphalack/Currency-Converter)
 ---
+
+<!-- CONTACT -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="mail" align="center" style="margin:15px;">
@@ -25,6 +28,8 @@
 </div>
 </p>    
 <br>
+
+<!-- TOOLS -->
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -32,6 +37,7 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
+
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -76,6 +82,7 @@
 <br>
 <br>
 
+<!-- STATS -->
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
@@ -89,11 +96,9 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-
 ![Souphalack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souphalack&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Souphalack&count_private=true&theme=algolia&border_radius=20)
-
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
@@ -104,6 +109,7 @@
 <!--  End Stats Cards -->
 
 ---
+<!-- CONTACT -->
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -120,12 +126,13 @@ Released under [MIT](/LICENSE) by [@Souphalack](https://github.com/Souphalack).
 
 <!-- 
 🔗 References 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
+- Portfolio:
+https://github.com/KhaledBadranDev
 
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
+- Badges Generator:
+https://github.com/MichaelCurrin/badge-generator
 
+-->
 
 
 
