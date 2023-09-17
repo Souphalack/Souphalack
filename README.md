@@ -4,7 +4,7 @@
 
 <!-- ABOUT ME -->
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Hello, I am Souphalack, however, I am also known as Noy due to my first name being difficult to pronouce to some. Curretnly, I am completing my final year in Business Information Systems and Technology at Curtin Univeristy. It has been an enjoyable challenge, and I am now eager to promote my knowledge within real world.
+    Hello, I am Souphalack, however, I am also known as Noy due to my first name being difficult to pronounce to some. I am completing my final year in Business Information Systems and Technology at Curtin University. It has been an enjoyable challenge, and I am eager to promote my knowledge in the real world.
 <br>
 <br>
 
